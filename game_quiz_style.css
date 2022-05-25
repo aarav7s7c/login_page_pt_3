@@ -1,0 +1,50 @@
+.icecreamicon
+{
+  width: 40px;
+  height: 40px;
+}
+
+.sweetquiz
+{
+  color:#ff99cc;
+  font-family: monospace;
+}
+
+.body_background
+{
+background-image: url(bg-01.jpg);
+background-size: 100%;
+background-repeat: no-repeat;
+font-size: small;
+}
+
+#output
+{
+  border-radius: 20px;
+  text-align: center;
+  border-style: none;
+  border-width: 3px;
+  border-color: linear-gradient( to bottom left, #33ccff 0%, #ff99cc 100%);
+}
+
+.answer_input_1
+{
+  background: transparent;
+  border: transparent;
+}
+
+.btn btn-outline-info
+{
+width: 50px;
+height: 25px; 
+}
+
+.question_input_1
+{
+  background-color: #c8f7f3;
+}
+
+.question_input_2
+{
+  background-color: #f4c0da;
+}
